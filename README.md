@@ -16,7 +16,7 @@ Instant Password Generation: With the click of a button, the application instant
 Intuitive User Interface: The application’s interface is straightforward, featuring radio buttons to select character options, an input field to set the password length, and a button to generate the password.<br>
 
 # Technical Details
-Language: Python
+Language: Python<br>
 Library: Tkinter<br>
 
 # GUI Components:
